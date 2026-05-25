@@ -1,0 +1,4 @@
+git clone https://github.com/xproverce/XPROVerce-MD.git
+cd XPROVerce-MD
+npm install
+npm start
